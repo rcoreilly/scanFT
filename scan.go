@@ -26,7 +26,7 @@ import (
 
 	"image/draw"
 
-	"github.com/srwiley/rasterx"
+	"github.com/rcoreilly/rasterx"
 	"golang.org/x/image/math/fixed"
 )
 
